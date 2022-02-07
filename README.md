@@ -2,6 +2,7 @@
 ### Open Source Nidhi (Investment) Management Software in Java 1.7 Swing  
 
 Nidhis are common in India, moreover they require a specific software to maintain records. This snippet fullfills their needs. 
+- I created this copy of software when I was pretty novice, so code is unclean and pretty basic. This was not meant for commercial purposes.
 
 ------------------
 ## Support
